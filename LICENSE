@@ -1,0 +1,62 @@
+ModRunners
+Copyright (c) 2026 Blackomodo
+
+ModRunners comes in two parts, under different terms:
+
+- The Api, ModRunners.Api.dll and its documentation ModRunners.Api.xml, which mods are built against, is under the MIT License below.
+- The rest of ModRunners, ModRunners.exe and ModRunners.Runtime.dll, is under the ModRunners License below.
+
+The third-party software ModRunners includes is listed in ThirdPartyNotices.txt, each under its own license.
+
+ModRunners is an unofficial modification of SpeedRunners. It is not a product of DoubleDutch Games or tinyBuild, and SpeedRunners belongs to them.
+
+
+MIT License (the Api)
+---------------------
+
+Copyright (c) 2026 Blackomodo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+ModRunners License (the rest of ModRunners)
+-------------------------------------------
+
+Copyright (c) 2026 Blackomodo. All rights reserved, except as granted below.
+
+1. You may use ModRunners free of charge, and share copies of its release
+   package as it is published, unmodified and complete, free of charge.
+
+2. You may not modify, decompile, disassemble or otherwise reverse engineer
+   ModRunners.exe or ModRunners.Runtime.dll, except as far as the law that
+   applies to you allows it despite this restriction. You may not distribute
+   modified copies of them, or sell ModRunners or any part of it.
+
+3. Mods are built against the Api, under the MIT License above, and belong to
+   their authors. This license gives no right over them.
+
+4. MODRUNNERS IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH MODRUNNERS OR THE USE OR OTHER DEALINGS IN IT, OR WITH THE
+   MODS IT LOADS.
+
+5. These rights end if you break these terms.
